@@ -1,1 +1,7 @@
-alert="Hola, si estás acá es porque te quiero"
+function load(){
+  
+alert="Hola, ¿Que hacés acá?"
+  
+}
+
+window.addEventListener('load', load)
