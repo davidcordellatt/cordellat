@@ -1,6 +1,6 @@
 function load(){
   
-alert="Hola, ¿Que hacés acá?"
+alert("Hola, ¿Que hacés acá?")
   
 }
 
